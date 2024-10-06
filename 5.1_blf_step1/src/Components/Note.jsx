@@ -16,7 +16,9 @@ const Note = ({ note, toggleImportance }) => {
   list:
   warning:
   clone:
+  app:
   
+
 
 
   
