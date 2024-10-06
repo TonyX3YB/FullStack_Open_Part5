@@ -20,7 +20,9 @@ const Note = ({ note, toggleImportance }) => {
   user:
   git:
   http:
+  notice:
   
+
 
 
 
