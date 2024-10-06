@@ -14,5 +14,7 @@ const Note = ({ note, toggleImportance }) => {
   export default Note
   :blog:
   list:
+  warning:
   
+
   
