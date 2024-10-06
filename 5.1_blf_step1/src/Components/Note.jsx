@@ -19,7 +19,9 @@ const Note = ({ note, toggleImportance }) => {
   app:
   user:
   git:
+  http:
   
+
 
 
 
