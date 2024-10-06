@@ -24,7 +24,9 @@ const Note = ({ note, toggleImportance }) => {
   ex:
   com:
   frontend:
+  use:
   
+
 
 
 
