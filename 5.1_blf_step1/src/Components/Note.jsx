@@ -22,7 +22,9 @@ const Note = ({ note, toggleImportance }) => {
   http:
   notice:
   ex:
+  com:
   
+
 
 
 
