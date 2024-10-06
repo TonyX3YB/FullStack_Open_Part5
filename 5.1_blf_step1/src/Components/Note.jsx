@@ -18,7 +18,9 @@ const Note = ({ note, toggleImportance }) => {
   clone:
   app:
   user:
+  git:
   
+
 
 
 
