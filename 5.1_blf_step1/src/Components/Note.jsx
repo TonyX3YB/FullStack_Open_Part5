@@ -28,7 +28,9 @@ const Note = ({ note, toggleImportance }) => {
   rm:
   fr:
   div:
+  key:
   
+
 
 
 
