@@ -15,6 +15,8 @@ const Note = ({ note, toggleImportance }) => {
   :blog:
   list:
   warning:
+  clone:
   
+
 
   
