@@ -21,7 +21,9 @@ const Note = ({ note, toggleImportance }) => {
   git:
   http:
   notice:
+  ex:
   
+
 
 
 
